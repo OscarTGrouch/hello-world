@@ -1,4 +1,4 @@
 # hello-world
 First things first...
 
-Testing for commit message here.
+This is the original message for testing.
